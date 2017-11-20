@@ -1,7 +1,7 @@
 {
     "name": "arman/billing_software",
     "description": "This is a billing software for any store.Its will calculate product price tax discounts & generate a receipt customer. No database need.",
-    "type": "laravel package",
+    "type": "Laravel Package",
     "license": "4rt543fer435tfgr",
     "authors": [
         {
