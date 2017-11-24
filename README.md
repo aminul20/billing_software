@@ -33,7 +33,7 @@ replace this
         ],
         "psr-4": {
             "App\\": "app/",
-            "arman\\billing_software\\": "packages/arman/billing_software/src"
+            "arman\\billing_software\\": "vendor/arman/billing_software/src"
         }
     },
 	
