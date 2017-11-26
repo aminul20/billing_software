@@ -41,3 +41,8 @@ replace this
 in cmd :
 
 composer dump-autoload -o
+
+
+in route :
+
+http://localhost/auth/public/bill
