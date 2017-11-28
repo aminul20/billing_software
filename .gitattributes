@@ -1,1 +1,2 @@
-*.HTML linguist-language=PHP
+* linguist-vendored
+*.PHP linguist-vendored=false
