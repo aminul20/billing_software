@@ -1,14 +1,17 @@
 {
     "name": "arman/billing_software",
-    "description": " * This is a billing software for any store. * Its will calculate product price tax discounts & generate a receipt customer. *No database need. * mobile responsive * You can print receipt & customize size.",
-    "type": "Laravel Package",
-    "license": "4rt543fer435tfgr",
+    "description": "This is a billing software for any store. * Its will calculate product price tax discounts & generate a receipt customer. *No database need. * mobile responsive * You can print receipt & customize size.",
+    "keywords": ["authentication", "laravel"],
+    "license": "arman",
     "authors": [
         {
-            "name": "arman",
+            "name": "arman hakim sagar",
             "email": "armanhakimsagar@gmail.com"
         }
     ],
+    "require": {
+        "php": ">=5.4.0"
+    },
     "minimum-stability": "dev",
-    "require": {}
+    "prefer-stable": true
 }
