@@ -27,16 +27,19 @@ in composer.json :
 
 replace this
 
-"autoload": {
-        "classmap": [
-            "database"
-        ],
-        "psr-4": {
-            "App\\": "app/",
-            "arman\\billing_software\\": "vendor/arman/billing_software/src"
-        }
-    },
-	
+'composer.json' => [
+
+	"autoload": {
+		"classmap": [
+		    "database"
+		],
+		"psr-4": {
+		    "App\\": "app/",
+		    "arman\\billing_software\\": "vendor/arman/billing_software/src"
+		}
+	    },
+	    
+]	
 
 in cmd :
 
