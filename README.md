@@ -37,7 +37,7 @@ replace this
 		    "App\\": "app/",
 		    "arman\\billing_software\\": "vendor/arman/billing_software/src"
 		}
-	    },
+	    }
 	    
 ]	
 
